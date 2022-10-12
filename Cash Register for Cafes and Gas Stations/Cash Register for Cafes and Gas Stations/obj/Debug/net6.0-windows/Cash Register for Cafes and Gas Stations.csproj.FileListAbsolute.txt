@@ -1,0 +1,18 @@
+C:\Users\marat\source\repos\Cash Register for Cafes and Gas Stations\Cash Register for Cafes and Gas Stations\bin\Debug\net6.0-windows\Cash Register for Cafes and Gas Stations.exe
+C:\Users\marat\source\repos\Cash Register for Cafes and Gas Stations\Cash Register for Cafes and Gas Stations\bin\Debug\net6.0-windows\Cash Register for Cafes and Gas Stations.deps.json
+C:\Users\marat\source\repos\Cash Register for Cafes and Gas Stations\Cash Register for Cafes and Gas Stations\bin\Debug\net6.0-windows\Cash Register for Cafes and Gas Stations.runtimeconfig.json
+C:\Users\marat\source\repos\Cash Register for Cafes and Gas Stations\Cash Register for Cafes and Gas Stations\bin\Debug\net6.0-windows\Cash Register for Cafes and Gas Stations.dll
+C:\Users\marat\source\repos\Cash Register for Cafes and Gas Stations\Cash Register for Cafes and Gas Stations\bin\Debug\net6.0-windows\Cash Register for Cafes and Gas Stations.pdb
+C:\Users\marat\source\repos\Cash Register for Cafes and Gas Stations\Cash Register for Cafes and Gas Stations\obj\Debug\net6.0-windows\Cash Register for Cafes and Gas Stations.csproj.AssemblyReference.cache
+C:\Users\marat\source\repos\Cash Register for Cafes and Gas Stations\Cash Register for Cafes and Gas Stations\obj\Debug\net6.0-windows\Cash_Register_for_Cafes_and_Gas_Stations.Form1.resources
+C:\Users\marat\source\repos\Cash Register for Cafes and Gas Stations\Cash Register for Cafes and Gas Stations\obj\Debug\net6.0-windows\Cash Register for Cafes and Gas Stations.csproj.GenerateResource.cache
+C:\Users\marat\source\repos\Cash Register for Cafes and Gas Stations\Cash Register for Cafes and Gas Stations\obj\Debug\net6.0-windows\Cash Register for Cafes and Gas Stations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marat\source\repos\Cash Register for Cafes and Gas Stations\Cash Register for Cafes and Gas Stations\obj\Debug\net6.0-windows\Cash Register for Cafes and Gas Stations.AssemblyInfoInputs.cache
+C:\Users\marat\source\repos\Cash Register for Cafes and Gas Stations\Cash Register for Cafes and Gas Stations\obj\Debug\net6.0-windows\Cash Register for Cafes and Gas Stations.AssemblyInfo.cs
+C:\Users\marat\source\repos\Cash Register for Cafes and Gas Stations\Cash Register for Cafes and Gas Stations\obj\Debug\net6.0-windows\Cash Register for Cafes and Gas Stations.csproj.CoreCompileInputs.cache
+C:\Users\marat\source\repos\Cash Register for Cafes and Gas Stations\Cash Register for Cafes and Gas Stations\obj\Debug\net6.0-windows\Cash Register for Cafes and Gas Stations.dll
+C:\Users\marat\source\repos\Cash Register for Cafes and Gas Stations\Cash Register for Cafes and Gas Stations\obj\Debug\net6.0-windows\refint\Cash Register for Cafes and Gas Stations.dll
+C:\Users\marat\source\repos\Cash Register for Cafes and Gas Stations\Cash Register for Cafes and Gas Stations\obj\Debug\net6.0-windows\Cash Register for Cafes and Gas Stations.pdb
+C:\Users\marat\source\repos\Cash Register for Cafes and Gas Stations\Cash Register for Cafes and Gas Stations\obj\Debug\net6.0-windows\Cash Register for Cafes and Gas Stations.genruntimeconfig.cache
+C:\Users\marat\source\repos\Cash Register for Cafes and Gas Stations\Cash Register for Cafes and Gas Stations\obj\Debug\net6.0-windows\ref\Cash Register for Cafes and Gas Stations.dll
+C:\Users\marat\source\repos\Cash Register for Cafes and Gas Stations\Cash Register for Cafes and Gas Stations\obj\Debug\net6.0-windows\Cash_Register_for_Cafes_and_Gas_Stations.Properties.Resources.resources
