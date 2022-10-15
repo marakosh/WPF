@@ -1,0 +1,25 @@
+C:\Users\marat\source\repos\Movie Information\Movie Information\bin\Debug\net6.0-windows\Movie Information.exe
+C:\Users\marat\source\repos\Movie Information\Movie Information\bin\Debug\net6.0-windows\Movie Information.deps.json
+C:\Users\marat\source\repos\Movie Information\Movie Information\bin\Debug\net6.0-windows\Movie Information.runtimeconfig.json
+C:\Users\marat\source\repos\Movie Information\Movie Information\bin\Debug\net6.0-windows\Movie Information.dll
+C:\Users\marat\source\repos\Movie Information\Movie Information\bin\Debug\net6.0-windows\Movie Information.pdb
+C:\Users\marat\source\repos\Movie Information\Movie Information\obj\Debug\net6.0-windows\Movie Information.csproj.AssemblyReference.cache
+C:\Users\marat\source\repos\Movie Information\Movie Information\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\marat\source\repos\Movie Information\Movie Information\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\marat\source\repos\Movie Information\Movie Information\obj\Debug\net6.0-windows\Movie Information_MarkupCompile.cache
+C:\Users\marat\source\repos\Movie Information\Movie Information\obj\Debug\net6.0-windows\Movie Information_MarkupCompile.lref
+C:\Users\marat\source\repos\Movie Information\Movie Information\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\marat\source\repos\Movie Information\Movie Information\obj\Debug\net6.0-windows\Movie Information.g.resources
+C:\Users\marat\source\repos\Movie Information\Movie Information\obj\Debug\net6.0-windows\Movie Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marat\source\repos\Movie Information\Movie Information\obj\Debug\net6.0-windows\Movie Information.AssemblyInfoInputs.cache
+C:\Users\marat\source\repos\Movie Information\Movie Information\obj\Debug\net6.0-windows\Movie Information.AssemblyInfo.cs
+C:\Users\marat\source\repos\Movie Information\Movie Information\obj\Debug\net6.0-windows\Movie Information.csproj.CoreCompileInputs.cache
+C:\Users\marat\source\repos\Movie Information\Movie Information\obj\Debug\net6.0-windows\Movie Information.dll
+C:\Users\marat\source\repos\Movie Information\Movie Information\obj\Debug\net6.0-windows\refint\Movie Information.dll
+C:\Users\marat\source\repos\Movie Information\Movie Information\obj\Debug\net6.0-windows\Movie Information.pdb
+C:\Users\marat\source\repos\Movie Information\Movie Information\obj\Debug\net6.0-windows\Movie Information.genruntimeconfig.cache
+C:\Users\marat\source\repos\Movie Information\Movie Information\obj\Debug\net6.0-windows\ref\Movie Information.dll
+C:\Users\marat\source\repos\Movie Information\Movie Information\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\marat\source\repos\Movie Information\Movie Information\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\marat\source\repos\Movie Information\Movie Information\obj\Debug\net6.0-windows\App.baml
+C:\Users\marat\source\repos\Movie Information\Movie Information\obj\Debug\net6.0-windows\Movie Information.csproj.CopyComplete

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OV8913U+W+Y8ANFGaQd+ORQf9eXAwG6GcSFH7/jQi4NuGXdRXjmRtaC23/TUeqsYDNluNGwqCriILMR9mv2IMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marat\\source\\repos\\Movie Information\\Movie Information\\Movie Information.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marat\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
+    "C:\\Users\\marat\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
